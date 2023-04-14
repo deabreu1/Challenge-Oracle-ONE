@@ -56,7 +56,7 @@ body {
     border: none;
     outline: none;
     background: #E5E5E5;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif, bold;
     font-weight: bold;
 }
 
@@ -69,7 +69,7 @@ body {
 #texto{
     margin-left: 5%;
     margin-right: 5%;
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif, bold;
     font-weight: bold;
 }
 #texto2{
