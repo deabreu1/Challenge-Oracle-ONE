@@ -56,6 +56,7 @@ body {
     border: none;
     outline: none;
     background: #E5E5E5;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #munieco{
@@ -77,6 +78,7 @@ body {
     border: none;
     outline: none;
     font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #btn-encriptar{
     padding: 24px;
@@ -84,7 +86,7 @@ body {
     height: 50%;
     border-radius: 18px;
     margin-left: 15%;
-    background: #0A3871;
+    background: #0A3871;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #btn-desencriptar{
     padding: 24px;
@@ -93,6 +95,7 @@ body {
     border-radius: 24px;
     margin-left: 7%;
     background: #D8DFE8;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 #btn-copiar{
     margin-left: 30%;
@@ -103,8 +106,10 @@ body {
     background: #D8DFE8;
     border-radius: 24px;
     display: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 p{
     text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
