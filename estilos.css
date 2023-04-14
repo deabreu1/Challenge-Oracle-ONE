@@ -4,7 +4,7 @@
 body {
     margin: 0px;
     padding: 0px;
-    background: #FFFFFF;
+    background: #E5E5E5;
 }
 
 .container{
@@ -55,7 +55,7 @@ body {
     font-size: 20px;
     border: none;
     outline: none;
-    background: #E5E5E5;
+    background: #FFFFFF;
     font-family: 'Inter', sans-serif, bold;
     font-weight: bold;
 }
