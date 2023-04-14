@@ -24,14 +24,14 @@ body {
     width: 70%;
     height: 70%;
     border-radius: 24px;
-    background: #FFFFFF;
+    background: #D8DFE8;
 }
 .rigth{
     float: right;
     width: 30%;
     height: auto;
     border-radius: 24px;
-    background: #0A3871;
+    background: #D8DFE8;
 }
 .left-button{
     float: left;
