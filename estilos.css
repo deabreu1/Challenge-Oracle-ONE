@@ -72,6 +72,7 @@ body {
     border: none;
     outline: none;
     font-size: 15px;
+    background: #D8DFE8;
 }
 #btn-encriptar{
     padding: 24px;
